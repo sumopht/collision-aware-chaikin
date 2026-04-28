@@ -1,0 +1,5 @@
+# Python dependencies for figure regeneration.
+# Install with:  pip install -r requirements.txt
+matplotlib>=3.5
+numpy>=1.20
+Pillow>=9.0
