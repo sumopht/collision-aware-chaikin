@@ -96,8 +96,6 @@ computer-animation-project/
 ├── requirements.txt                   ← Python deps (matplotlib, numpy, Pillow)
 ├── report/
 │   ├── final_report.pdf               ← 7-page IEEE-style report
-│   ├── final_report.tex               ← LaTeX source
-│   └── fig_*.pdf                      ← figure PDFs used by the LaTeX
 ├── src/
 │   ├── index.html                     ← browser demo entry point
 │   ├── main.js, renderer.js, style.css
