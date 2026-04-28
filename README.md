@@ -91,7 +91,7 @@ collision reduction, endpoint preservation, and pathological inputs.
 ## Repository layout
 
 ```
-computer-animation-project/
+collision-aware-chaikin/
 ├── README.md                          ← this file
 ├── requirements.txt                   ← Python deps (matplotlib, numpy, Pillow)
 ├── report/
